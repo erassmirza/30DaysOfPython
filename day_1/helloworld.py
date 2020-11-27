@@ -22,3 +22,5 @@ print(type(['Erass',"Python",'''Finland''']))
 print(type('Erass'))
 print(type("Mirza"))
 print(type('''Pakistan'''))
+
+print('Day 01 Complete')
