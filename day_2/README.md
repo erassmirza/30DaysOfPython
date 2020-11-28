@@ -37,5 +37,6 @@
 7. Run help('keywords') in python shell or in your file to check for the reserved words
 
 
+
 # Copy from Asabeneh/30-Days-Of-Python
 https://github.com/Asabeneh/30-Days-Of-Python/blob/master/02_Day_Variables_builtin_functions/02_variables_builtin_functions.md
